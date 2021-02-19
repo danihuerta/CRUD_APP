@@ -1,0 +1,9 @@
+.hero {
+  background-color: #252f38;
+  border-radius: 10px;
+  padding: 20px 0px;
+}
+
+.hero-image {
+  width: 100px;
+}
